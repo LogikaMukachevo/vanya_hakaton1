@@ -1,0 +1,628 @@
+.tall{
+    /* Rectangle 1 */
+  
+  position: absolute;
+  width: 1920px;
+  height: 336px;
+  left: 0px;
+  top: 0px;
+  
+  background: #FFFFFF;
+  
+  }
+  
+  
+  img{
+      display: block;
+      margin: 0 auto;
+    }
+    a{
+      text-align:center;
+      padding:40px;
+      text-decoration: none;
+      color:white;
+    }/* Slide 16:9 - 1 */
+  
+    .all{
+  position: relative;
+  width: 1920px;
+  height: 3431px;
+  
+  background: #E7E7E7;
+    }
+    .all2{
+        position: relative;
+        width: 1920px;
+        height: 3731px;
+        
+        background: #E7E7E7;
+          }
+          .all3{
+            position: relative;
+            width: 1920px;
+            height: 3222px;
+            
+            background: #E7E7E7;
+              }
+              .all0{
+                position: relative;
+                width: 1920px;
+                height: 2431px;
+                
+                background: #E7E7E7;
+                  }
+    .topp{
+
+        position: absolute;
+        width: 344px;
+        height: 55px;
+        left: 24px;
+        top: 30px;
+        
+        background: url(ukraine-coca-cola-logo_black_600x96.png);
+         }
+         .topp2{
+
+            position: absolute;
+            width: 344px;
+            height: 35px;
+            left: 24px;
+            top: 30px;
+            
+            background: url(ukraine-coca-cola-logo_black_600x96.png);
+             }
+        
+          .start{
+          /* Бренди */
+        
+          position: absolute;
+          width: 264px;
+          height: 0px;
+          left: 297px;
+          top: -15px;
+        
+          font-family: 'arial black';
+          font-style: normal;
+          font-weight: 100000;
+          font-size: 33px;
+          line-height: 58px;
+          text-align: center;
+        
+          color: #000000;
+          }
+          .start2{
+            /* Бренди */
+            
+            position: absolute;
+            width: 264px;
+            height: 0px;
+            left: 566px;
+            top: -15px;
+            
+            font-family: 'arial black';
+            font-style: normal;
+            font-weight: 100000;
+            font-size: 33px;
+            line-height: 58px;
+            text-align: center;
+            
+            color: #000000;
+            }
+           
+             .start3{
+             /* Вплив */
+        
+             position: absolute;
+             width: 264px;
+             height: 0px;
+             left: 859px;
+             top: -15px;
+             
+             font-family: 'arial black';
+             font-style: normal;
+             font-weight: 100000;
+             font-size: 33px;
+             line-height: 58px;
+             text-align: center;
+             
+             color: #000000;
+             }
+
+.logo{
+    /* width1960 2 */
+position: absolute;
+width: 180px;
+height: 180px;
+left: 845px;
+top: 156px;
+background: url(width1960.png);
+
+}
+.logo2{
+    /* width1960 2 */
+position: absolute;
+width: 200px;
+height: 110px;
+left: 845px;
+top: 196px;
+background: url(width1960.png);
+
+}
+
+
+.alfa{
+    /* основна частина */
+position: absolute;
+width: 1667px;
+height: 1765px;
+left: 127px;
+top: 394px;
+}
+
+.beta{
+    /* width1960 1 */
+
+position: absolute;
+width: 1667px;
+height: 875px;
+left: 0px;
+top: 0px;;
+
+background: url(width1960.png);
+border-radius: 65px;
+
+}
+.blue{
+/* Rectangle 11 */
+
+position: absolute;
+width: 707px;
+height: 780px;
+left: 894px;
+top: 985px;
+
+background: #FFFFFF;
+border-radius: 57px;
+
+}
+
+.blue5{
+    /* Rectangle 11 */
+    
+    position: absolute;
+    width: 707px;
+    height: 780px;
+    left:91px;
+    top: 985px;
+    
+    background: #FFFFFF;
+    border-radius: 57px;
+    
+    }
+.blue1{
+/* image 4 */
+
+position: absolute;
+width: 522px;
+height: 603px;
+left: 92px;
+top: 88px;
+background: url(image);
+}
+.blue7{
+    /* image 4 */
+    
+    position: absolute;
+    width: 522px;
+    height: 603px;
+    left: 92px;
+    top: 88px;
+    background: url(image);
+    }
+
+
+   
+
+
+.pen{
+    /* Coca‑Cola оригінальний смак В Україні Coca‑Cola доступна у скляних пляшках об'ємом 250 мл, металевих баночках 330 мл, а також у ПЕТ-пляшках об'ємом 0,5 л, 0,75 л, 1 л, 1,25 л, 1,75 л, та 2 л. */
+
+position: absolute;
+width: 783px;
+height: 438px;
+left: 91px;
+top: 1900px;
+
+font-family: 'century gothic';
+font-style: normal;
+font-weight: 900;
+font-size: 26px;
+line-height: 58px;
+
+color: #000000;
+
+
+}
+
+.pen1{
+    /* Coca‑Cola оригінальний смак В Україні Coca‑Cola доступна у скляних пляшках об'ємом 250 мл, металевих баночках 330 мл, а також у ПЕТ-пляшках об'ємом 0,5 л, 0,75 л, 1 л, 1,25 л, 1,75 л, та 2 л. */
+
+position: absolute;
+width: 783px;
+height: 438px;
+left: 894px;
+top: 1082px;
+
+font-family: 'century gothic';
+font-style: normal;
+font-weight: 900;
+font-size: 26px;
+line-height: 58px;
+
+color: #000000;
+
+
+}
+
+.vb{
+       /* Coca‑Cola оригінальний смак В Україні Coca‑Cola доступна у скляних пляшках об'ємом 250 мл, металевих баночках 330 мл, а також у ПЕТ-пляшках об'ємом 0,5 л, 0,75 л, 1 л, 1,25 л, 1,75 л, та 2 л. */
+position: absolute;
+width: 1586px;
+height: 438px;
+left: 150px;
+top: 2200px;
+font-family: 'century gothic';
+font-style: normal;
+font-weight: 900;
+font-size: 26px;
+line-height: 58px;
+color: #000000;
+text-align: center;
+}
+.vbqqq{
+  /* Coca‑Cola оригінальний смак В Україні Coca‑Cola доступна у скляних пляшках об'ємом 250 мл, металевих баночках 330 мл, а також у ПЕТ-пляшках об'ємом 0,5 л, 0,75 л, 1 л, 1,25 л, 1,75 л, та 2 л. */
+position: absolute;
+width: 1586px;
+height: 438px;
+left: 30px;
+top: 1800px;
+font-family: 'century gothic';
+font-style: normal;
+font-weight: 900;
+font-size: 26px;
+line-height: 58px;
+color: #000000;
+text-align: center;
+}
+.vbv{
+  /* Coca‑Cola оригінальний смак В Україні Coca‑Cola доступна у скляних пляшках об'ємом 250 мл, металевих баночках 330 мл, а також у ПЕТ-пляшках об'ємом 0,5 л, 0,75 л, 1 л, 1,25 л, 1,75 л, та 2 л. */
+position: absolute;
+width: 1586px;
+height: 438px;
+left: 100px;
+top: 3000px;
+font-family: 'century gothic';
+font-style: normal;
+font-weight: 900;
+font-size: 26px;
+line-height: 58px;
+color: #000000;
+text-align: center;
+}
+
+
+
+
+
+
+
+
+
+.last-day{
+    /* слідкуй за анми */
+  position: absolute;
+  width: 1510px;
+  height: 206px;
+  left: 218px;
+  top: 2331px;
+  }
+  .last-day2{
+    /* слідкуй за анми */
+  position: absolute;
+  width: 1510px;
+  height: 206px;
+  left: 218px;
+  top: 2631px;
+  }
+  .last-day3{
+    /* слідкуй за анми */
+  position: absolute;
+  width: 1510px;
+  height: 206px;
+  left: 218px;
+  top: 3132px;
+  }
+  
+  .cs-go{
+    /* Rectangle 12 */
+  
+  position: absolute;
+  width: 1510px;
+  height: 206px;
+  left: 0px;
+  top: 0px;
+  
+  background: #000000;
+  border-radius: 59px;
+  
+  }
+  
+  .xxx{
+    /* Слідкуй за нами */
+  
+  position: absolute;
+  width: 505px;
+  height: 83px;
+  left: 95px;
+  top: 0px;
+  
+  font-family: 'Inika';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 83px;
+  color: #FFFFFF;
+  }
+ 
+  .facebook{
+    /* image 5 */
+  border-radius: 10000px;
+  position: absolute;
+  width: 104px;
+  height: 106px;
+  left: 1044px;
+  top: 20px;
+  background: url(image.png);
+  }
+  .instagram{
+    /* image 6 */
+  
+  position: absolute;
+  width: 101px;
+  height: 104px;
+  left: 1183px;
+  top: 20px;
+  
+  background: url(image.png);
+  
+  }
+  
+  .YouTube{
+    /* image 7 */
+  
+  position: absolute;
+  width: 101px;
+  height: 104px;
+  left: 1330px;
+  top: 20px;
+  
+  background: url(image.png);
+  
+  }
+  
+          
+           /* тута коди для подвалу сайта */
+                .dovn{
+                /* фон */
+          
+                position: absolute;
+                width: 1921px;
+                height: 752px;
+                left: -2px;
+                top: 2679px;
+          
+                background: #000000;
+                }
+                .dovn2{
+                    /* фон */
+              
+                    position: absolute;
+                    width: 1921px;
+                    height: 752px;
+                    left: -2px;
+                    top: 2979px;
+              
+                    background: #000000;
+                    }
+                    .dovn3{
+                      /* фон */
+                
+                      position: absolute;
+                      width: 1921px;
+                      height: 752px;
+                      left: -2px;
+                      top: 3470px;
+                
+                      background: #000000;
+                      }
+                .logo-cola-dovn{
+                  /* ukraine-coca-cola-logo_white_600x96 1 */
+          
+                position: absolute;
+                width: 434px;
+                height: 67px;
+                left: 20px;
+                top: 0px;
+          
+                background: url(ukraine-coca-cola-logo_white_600x96.png);
+          
+                }
+                .dovm-foter{
+                  /* низ */
+          
+                position: absolute;
+                width: 1470px;
+                height: 353px;
+                left: 60px;
+                top: 100px;
+          
+          
+                }
+                .knopka{
+                  /* Rectangle 10 */
+                border-radius: 34px;
+                position: absolute;
+                width: 269px;
+                height: 67px;
+                left: 1157px;
+                top: 0px;
+          
+                background: #FFFFFF;
+          
+                }
+                .mini-logo-local{
+                  /* image 3 */
+          
+                position: absolute;
+                width: 78px;
+                height: 63px;
+                left: 94px;
+                top: 0px;
+          
+                background: url(image.png);
+          
+                }
+                .line{
+                  /* Line 1 (Stroke) */
+          
+                position: absolute;
+                width: 1760px;
+                height: 1px;
+                left: 20px;
+                top: 100px;
+          
+                background: #FFFFFF;
+          
+                }
+                .dovn-header{
+                  /* про нас */
+                border:1px solid black;
+                position: absolute;
+                width: 1438px;
+                height: 213px;
+                left: 20px;
+                top: 220px;
+                }
+          
+                .ppp{
+                /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+                color: rgb(157, 157, 157);
+                position: absolute;
+                font-size:26px;
+                left: 60px;
+                top: 0px;
+                }
+                .ppp1{
+                  /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+                  color: white;
+                  position: absolute;
+                  font-size:30px;
+                  left: 60px;
+                  top: 80px;
+                  }
+                  .ppp2{
+                    /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+                    color: white;
+                    position: absolute;
+                    font-size:30px;
+                    left: 60px;
+                    top: 130px;
+                    }
+                    .ppp3{
+                      /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+                      color: white;
+                      position: absolute;
+                      font-size:30px;
+                      left: 60px;
+                      top: 180px;
+                      }
+                      .ppp4{
+                        /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+                        color: white;
+                        position: absolute;
+                        font-size:30px;
+                        left: 60px;
+                        top: 230px;
+                        }
+          .kkk{
+           /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+           color: rgb(157, 157, 157);
+           position: absolute;
+           font-size:26px;
+           left: 400px;
+           top: 0px;
+           }
+           .kkk1{
+            /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+            color: white;
+            position: absolute;
+            font-size:30px;
+            left: 400px;
+            top: 80px;
+            }
+            .kkk2{
+              /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+              color: white;
+              position: absolute;
+              font-size:30px;
+              left: 400px;
+              top: 130px;
+              }
+              .kkk3{
+                /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+                color: white;
+                position: absolute;
+                font-size:30px;
+                left: 400px;
+                top: 180px;
+                }
+           .aaa{
+           /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+           color: rgb(157, 157, 157);
+           position: absolute;
+           font-size:26px;
+           left: 805px;
+           top: 0px;
+            }
+            .aaa1{
+              /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+              color: white;
+              position: absolute;
+              font-size:30px;
+              left: 805px;
+              top: 80px;
+              }
+              .aaa2{
+                /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+                color: white;
+                position: absolute;
+                font-size:30px;
+                left: 805px;
+                top: 130px;
+                }
+                .aaa3{
+                  /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+                  color: white;
+                  position: absolute;
+                  font-size:30px;
+                  left: 805px;
+                  top: 180px;
+                  }
+                  .ppp4{
+                    /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+                    color: white;
+                    position: absolute;
+                    font-size:30px;
+                    left: 805px;
+                    top: 230px;
+                    }

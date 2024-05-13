@@ -1,0 +1,630 @@
+.tall{
+    /* Rectangle 1 */
+  
+  position: absolute;
+  width: 1920px;
+  height: 336px;
+  left: 0px;
+  top: 0px;
+  
+  background: #FFFFFF;
+  
+  }
+  
+  
+  img{
+      display: block;
+      margin: 0 auto;
+    }
+    a{
+      text-align:center;
+      padding:40px;
+      text-decoration: none;
+      color:white;
+    }/* Slide 16:9 - 1 */
+  
+    .all{
+  position: relative;
+  width: 1920px;
+  height: 11086px;
+  
+  background: #E7E7E7;
+    }
+    .topp{
+
+        position: absolute;
+        width: 344px;
+        height: 55px;
+        left: 24px;
+        top: 30px;
+        
+        background: url(ukraine-coca-cola-logo_black_600x96.png);
+         }
+        
+          .start{
+          /* Бренди */
+        
+          position: absolute;
+          width: 264px;
+          height: 0px;
+          left: 297px;
+          top: -15px;
+        
+          font-family: 'arial black';
+          font-style: normal;
+          font-weight: 100000;
+          font-size: 33px;
+          line-height: 58px;
+          text-align: center;
+        
+          color: #000000;
+          }
+          .start2{
+            /* Бренди */
+            
+            position: absolute;
+            width: 264px;
+            height: 0px;
+            left: 566px;
+            top: -15px;
+            
+            font-family: 'arial black';
+            font-style: normal;
+            font-weight: 100000;
+            font-size: 33px;
+            line-height: 58px;
+            text-align: center;
+            
+            color: #000000;
+            }
+           
+             .start3{
+             /* Вплив */
+        
+             position: absolute;
+             width: 264px;
+             height: 0px;
+             left: 839px;
+             top: -15px;
+             
+             font-family: 'arial black';
+             font-style: normal;
+             font-weight: 100000;
+             font-size: 33px;
+             line-height: 58px;
+             text-align: center;
+             
+             color: #000000;
+             }
+
+.logo{
+    /* width1960 2 */
+position: absolute;
+width: 180px;
+height: 180px;
+left: 845px;
+top: 156px;
+background: url(width1960.png);
+
+}
+
+.osnovna{
+    /* основна частина */
+position: absolute;
+width: 1667px;
+height: 1765px;
+left: 127px;
+top: 401px;
+}
+.big-photo{
+    /* width1960 (1) 1 */
+position: absolute;
+width: 1657px;
+height: 870px;
+left: 5px;
+top: -1px;
+background: url(width1960 (1).png);
+border-radius: 65px;
+}
+.sweps-text{
+    /* Schweppes */
+position: absolute;
+width: 343px;
+height: 78px;
+left: 661px;
+top: 959px;
+font-family: 'arial black';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 83px;
+color: #000000;
+}
+.a-lot-off-text{
+   /* Напій, що дарує насолоду вашим смаковим рецепторам і забезпечує унікальний досвід. Почастуйте себе Schweppes у своєму первозданному вигляді або опануйте мистецтво міксології, створюючи коктейлі. Запрошуємо вас на шлях творчості, де ви можете створити свій власний коктейль, поєднуючи Schweppes з різними алкогольними напоями та соками. Зробіть кожен ваш момент особливим, святкуючи зі Schweppes, чи то на галасливій вечірці, чи в тиші домашнього затишку. */
+
+position: absolute;
+width: 1716px;
+height: 332px;
+left: -24px;
+top: 1075px;
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 31px;
+line-height: 52px;
+text-align: center;
+color: #000000;
+}
+.mini-head{
+/* Rectangle 11 */
+
+position: absolute;
+width: 733px;
+height: 780px;
+left: 80px;
+top: 1533px;
+
+background: #FFFFFF;
+border-radius: 57px;
+
+}
+.schweps-mini-photo{
+    /* image 8 */
+
+position: absolute;
+width: 742px;
+height: 444px;
+left: 773px;
+top: 1701px;
+background: url(image.png);
+border-radius: 58px;
+}
+.jjj{
+  /* Обирай, з ким заміксуєш! Наш внутрішній голос не помиляється, коли ми обираємо тих, із ким хочемо розділити наші найбільш цінні моменти життя. Довіртеся своїм відчуттям і відкрийте двері новим знайомствам, обираючи тих, хто справді заслуговує на вашу увагу та справжній смак!     Відкрийте для себе коктейлі зі Schweppes */
+position: absolute;
+width: 683px;
+height: 712px;
+left: 110px;
+top: 1650px;
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 31px;
+line-height: 63px;
+color: #000000;
+}
+.jjj1{
+  /* Обирай, з ким заміксуєш! Наш внутрішній голос не помиляється, коли ми обираємо тих, із ким хочемо розділити наші найбільш цінні моменти життя. Довіртеся своїм відчуттям і відкрийте двері новим знайомствам, обираючи тих, хто справді заслуговує на вашу увагу та справжній смак!     Відкрийте для себе коктейлі зі Schweppes */
+position: absolute;
+width: 803px;
+height: 712px;
+left: 110px;
+top: 1549px;
+font-family: 'arial black';
+font-style: normal;
+font-weight: 400;
+font-size: 39px;
+line-height: 63px;
+color: #000000;
+}
+  .smack{
+    /* Смаки */
+position: absolute;
+width: 299px;
+height: 125px;
+left: 583px;
+top: -1190px;
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 110px;
+line-height: 125px;
+/* identical to box height */
+color: #000000;
+  }
+  .z{
+/* види */
+
+position: absolute;
+width: 1496px;
+height: 4296px;
+left: 212px;
+top: 3847px;
+
+
+  }
+    .yelow{
+      /* жовта */
+      border-radius: 57px;
+      background-color: #ffffff;
+position: absolute;
+width: 733px;
+height: 780px;
+left: 0px;
+top: -872px;
+    }
+    .yelow1{
+      /* width1960 1 */
+
+position: absolute;
+width: 671px;
+height: 690px;
+left: 37px;
+top: 5px;
+
+background: url(width1960.png);
+
+    }
+    .blue{
+/* бірюзова */
+position: absolute;
+width: 733px;
+height: 780px;
+left: 733px;
+top: 0px;
+
+background: #FFFFFF;
+border-radius: 57px;
+
+    }
+    .blue1{
+/* image 16 */
+position: absolute;
+width: 694px;
+height: 704px;
+left: 5px;
+top: 28px;
+background: url(image.png);
+    }
+    .purpul{
+      border-radius: 57px;
+      background-color: #ffffff;
+position: absolute;
+width: 733px;
+height: 780px;
+left: 0px;
+top: 908px;
+    }
+    .purpul1{
+/* image 12 */
+
+position: absolute;
+width: 671px;
+height: 690px;
+left: 5px;
+top: 37px;
+
+background: url(width1960.png);
+
+    }
+    .green{
+/* Rectangle 13 */
+
+position: absolute;
+width: 733px;
+height: 780px;
+left: 733px;
+top: 1786px;
+
+background: #FFFFFF;
+border-radius: 57px;
+
+    }
+    .green1{
+/* image 13 */
+
+position: absolute;
+width: 715px;
+height: 665px;
+left: 5px;
+top:30px;
+
+background: url(image.png);
+
+    }
+    .red{
+/* Rectangle 11 */
+
+position: absolute;
+width: 733px;
+height: 789.61px;
+left: 0px;
+top: 2660.39px;
+
+background: #FFFFFF;
+border-radius: 57px;
+
+    }
+    .red1{
+/* image 14 */
+
+position: absolute;
+width: 701px;
+height: 711.66px;
+left: 7px;
+top: 25px;
+
+background: url(image.png);
+
+    }
+    .orange{
+/* Rectangle 12 */
+
+position: absolute;
+width: 733px;
+height: 780px;
+left: 733px;
+top: 3559px;
+
+background: #FFFFFF;
+border-radius: 57px;
+
+    }
+    .orange1{
+/* image 15 */
+
+position: absolute;
+width: 680px;
+height: 708px;
+left: 5px;
+top: 28px;
+
+background: url(image.png);
+
+    }
+    .ese{
+      /* тексти */
+
+position: absolute;
+width: 1486px;
+height: 4911px;
+left: 3px;
+top: -723px;
+
+
+    }
+
+.first-text1{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+         /* тута коди для подвалу сайта */
+              .dovn{
+              /* фон */
+        
+              position: absolute;
+              width: 1921px;
+              height: 752px;
+              left: -2px;
+              top: 10338px;
+        
+              background: #000000;
+              }
+              .logo-cola-dovn{
+                /* ukraine-coca-cola-logo_white_600x96 1 */
+        
+              position: absolute;
+              width: 434px;
+              height: 67px;
+              left: 20px;
+              top: 0px;
+        
+              background: url(ukraine-coca-cola-logo_white_600x96.png);
+        
+              }
+              .dovm-foter{
+                /* низ */
+        
+              position: absolute;
+              width: 1470px;
+              height: 353px;
+              left: 60px;
+              top: 100px;
+        
+        
+              }
+              .knopka{
+                /* Rectangle 10 */
+              border-radius: 34px;
+              position: absolute;
+              width: 269px;
+              height: 67px;
+              left: 1157px;
+              top: 0px;
+        
+              background: #FFFFFF;
+        
+              }
+              .mini-logo-local{
+                /* image 3 */
+        
+              position: absolute;
+              width: 78px;
+              height: 63px;
+              left: 94px;
+              top: 0px;
+        
+              background: url(image.png);
+        
+              }
+              .line{
+                /* Line 1 (Stroke) */
+        
+              position: absolute;
+              width: 1760px;
+              height: 1px;
+              left: 20px;
+              top: 100px;
+        
+              background: #FFFFFF;
+        
+              }
+              .dovn-header{
+                /* про нас */
+              border:1px solid black;
+              position: absolute;
+              width: 1438px;
+              height: 213px;
+              left: 20px;
+              top: 220px;
+              }
+        
+              .ppp{
+              /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+              color: rgb(157, 157, 157);
+              position: absolute;
+              font-size:26px;
+              left: 60px;
+              top: 0px;
+              }
+              .ppp1{
+                /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+                color: white;
+                position: absolute;
+                font-size:30px;
+                left: 60px;
+                top: 80px;
+                }
+                .ppp2{
+                  /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+                  color: white;
+                  position: absolute;
+                  font-size:30px;
+                  left: 60px;
+                  top: 130px;
+                  }
+                  .ppp3{
+                    /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+                    color: white;
+                    position: absolute;
+                    font-size:30px;
+                    left: 60px;
+                    top: 180px;
+                    }
+                    .ppp4{
+                      /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+                      color: white;
+                      position: absolute;
+                      font-size:30px;
+                      left: 60px;
+                      top: 230px;
+                      }
+        .kkk{
+         /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+         color: rgb(157, 157, 157);
+         position: absolute;
+         font-size:26px;
+         left: 400px;
+         top: 0px;
+         }
+         .kkk1{
+          /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+          color: white;
+          position: absolute;
+          font-size:30px;
+          left: 400px;
+          top: 80px;
+          }
+          .kkk2{
+            /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+            color: white;
+            position: absolute;
+            font-size:30px;
+            left: 400px;
+            top: 130px;
+            }
+            .kkk3{
+              /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+              color: white;
+              position: absolute;
+              font-size:30px;
+              left: 400px;
+              top: 180px;
+              }
+         .aaa{
+         /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+         color: rgb(157, 157, 157);
+         position: absolute;
+         font-size:26px;
+         left: 805px;
+         top: 0px;
+          }
+          .aaa1{
+            /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+            color: white;
+            position: absolute;
+            font-size:30px;
+            left: 805px;
+            top: 80px;
+            }
+            .aaa2{
+              /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+              color: white;
+              position: absolute;
+              font-size:30px;
+              left: 805px;
+              top: 130px;
+              }
+              .aaa3{
+                /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+                color: white;
+                position: absolute;
+                font-size:30px;
+                left: 805px;
+                top: 180px;
+                }
+                .ppp4{
+                  /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+                  color: white;
+                  position: absolute;
+                  font-size:30px;
+                  left: 805px;
+                  top: 230px;
+                  }

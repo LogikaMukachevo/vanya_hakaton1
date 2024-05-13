@@ -1,0 +1,981 @@
+.tall{
+    /* Rectangle 1 */
+  
+  position: absolute;
+  width: 1920px;
+  height: 336px;
+  left: 0px;
+  top: 0px;
+  
+  background: #FFFFFF;
+  
+  }
+ 
+  
+  img{
+      display: block;
+      margin: 0 auto;
+    }
+    a{
+      text-align:center;
+      padding:40px;
+      text-decoration: none;
+      color:white;
+    }/* Slide 16:9 - 1 */
+  
+    .all{
+  position: relative;
+  width: 1920px;
+  height: 11086px;
+  
+  background: #E7E7E7;
+    }
+    .all2{
+      position: relative;
+      width: 1920px;
+      height: 2500px;
+      
+      background: #E7E7E7;
+        }
+        .wse{
+          position: relative;
+          width: 1920px;
+          height: 4700px;
+          
+          background: #E7E7E7;
+            }
+        .all5{
+         /* Slide 16:9 - 1 */
+
+position: relative;
+width: 1920px;
+height: 4586px;
+
+background: #EBE9E9;
+
+            }
+    .topp{
+
+        position: absolute;
+        width: 344px;
+        height: 55px;
+        left: 25px;
+        top: 30px;
+        
+        background: url(ukraine-coca-cola-logo_black_600x96.png);
+         }
+        
+          .start{
+          /* Бренди */
+        
+          position: absolute;
+          width: 264px;
+          height: 0px;
+          left: 297px;
+          top: -15px;
+        
+          font-family: 'arial black';
+          font-style: normal;
+          font-weight: 100000;
+          font-size: 33px;
+          line-height: 58px;
+          text-align: center;
+        
+          color: #000000;
+          }
+          .start2{
+            /* Бренди */
+            
+            position: absolute;
+            width: 264px;
+            height: 0px;
+            left: 566px;
+            top: -15px;
+            
+            font-family: 'arial black';
+            font-style: normal;
+            font-weight: 100000;
+            font-size: 33px;
+            line-height: 58px;
+            text-align: center;
+            
+            color: #000000;
+            }
+           
+             .start3{
+             /* Вплив */
+        
+             position: absolute;
+             width: 264px;
+             height: 0px;
+             left: 859px;
+             top: -15px;
+             
+             font-family: 'arial black';
+             font-style: normal;
+             font-weight: 100000;
+             font-size: 33px;
+             line-height: 58px;
+             text-align: center;
+             
+             color: #000000;
+             }
+
+.logo{
+    /* width1960 2 */
+position: absolute;
+width: 180px;
+height: 180px;
+left: 845px;
+top: 156px;
+background: url(width1960.png);
+
+}
+
+.osnovna{
+    /* основна частина */
+position: absolute;
+width: 1667px;
+height: 1765px;
+left: 127px;
+top: 401px;
+}
+.big-photo{
+    /* width1960 (1) 1 */
+position: absolute;
+width: 1657px;
+height: 870px;
+left: 5px;
+top: -1px;
+background: url(width1960 (1).png);
+border-radius: 65px;
+}
+.sweps-text{
+    /* Schweppes */
+position: absolute;
+width: 343px;
+height: 78px;
+left: 661px;
+top: 959px;
+font-family: 'arial black';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 83px;
+color: #000000;
+}
+.a-lot-off-text{
+   /* Напій, що дарує насолоду вашим смаковим рецепторам і забезпечує унікальний досвід. Почастуйте себе Schweppes у своєму первозданному вигляді або опануйте мистецтво міксології, створюючи коктейлі. Запрошуємо вас на шлях творчості, де ви можете створити свій власний коктейль, поєднуючи Schweppes з різними алкогольними напоями та соками. Зробіть кожен ваш момент особливим, святкуючи зі Schweppes, чи то на галасливій вечірці, чи в тиші домашнього затишку. */
+
+position: absolute;
+width: 1716px;
+height: 332px;
+left: -24px;
+top: 1075px;
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 31px;
+line-height: 52px;
+text-align: center;
+color: #000000;
+}
+.mini-head{
+/* Rectangle 11 */
+
+position: absolute;
+width: 733px;
+height: 780px;
+left: 80px;
+top: 1533px;
+
+background: #FFFFFF;
+border-radius: 57px;
+
+}
+.schweps-mini-photo{
+    /* image 8 */
+
+position: absolute;
+width: 742px;
+height: 444px;
+left: 773px;
+top: 1701px;
+background: url(image.png);
+border-radius: 58px;
+}
+.jjj{
+  /* Обирай, з ким заміксуєш! Наш внутрішній голос не помиляється, коли ми обираємо тих, із ким хочемо розділити наші найбільш цінні моменти життя. Довіртеся своїм відчуттям і відкрийте двері новим знайомствам, обираючи тих, хто справді заслуговує на вашу увагу та справжній смак!     Відкрийте для себе коктейлі зі Schweppes */
+position: absolute;
+width: 683px;
+height: 712px;
+left: 110px;
+top: 1650px;
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 31px;
+line-height: 63px;
+color: #000000;
+}
+.jjj1{
+  /* Обирай, з ким заміксуєш! Наш внутрішній голос не помиляється, коли ми обираємо тих, із ким хочемо розділити наші найбільш цінні моменти життя. Довіртеся своїм відчуттям і відкрийте двері новим знайомствам, обираючи тих, хто справді заслуговує на вашу увагу та справжній смак!     Відкрийте для себе коктейлі зі Schweppes */
+position: absolute;
+width: 803px;
+height: 712px;
+left: 110px;
+top: 1549px;
+font-family: 'arial black';
+font-style: normal;
+font-weight: 400;
+font-size: 39px;
+line-height: 63px;
+color: #000000;
+}
+  .smack{
+    /* Смаки */
+position: absolute;
+width: 299px;
+height: 125px;
+left: 583px;
+top: -1190px;
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 110px;
+line-height: 125px;
+/* identical to box height */
+color: #000000;
+  }
+
+  .smack1{
+    /* Смаки */
+position: absolute;
+width: 299px;
+height: 125px;
+left: 613px;
+top: -1150px;
+font-family: 'arial black';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 125px;
+/* identical to box height */
+color: #000000;
+  }
+
+
+  .z{
+/* види */
+
+position: absolute;
+width: 1496px;
+height: 4296px;
+left: 212px;
+top: 3847px;
+  }
+  .zz{
+    /* види */
+    
+    position: absolute;
+    width: 1496px;
+    height: 3296px;
+    left: 92px;
+    top: 2000px;
+      }
+
+    .yelow{
+      /* жовта */
+      border-radius: 57px;
+      background-color: #ffffff;
+position: absolute;
+width: 733px;
+height: 780px;
+left: 0px;
+top: -872px;
+    }
+    .yelow1{
+      /* width1960 1 */
+
+position: absolute;
+width: 671px;
+height: 690px;
+left: 37px;
+top: 5px;
+
+background: url(width1960.png);
+
+    }
+    .blue{
+/* бірюзова */
+position: absolute;
+width: 733px;
+height: 780px;
+left: 733px;
+top: 0px;
+
+background: #FFFFFF;
+border-radius: 57px;
+
+    }
+    .blue5{
+      /* бірюзова */
+      position: absolute;
+      width: 733px;
+      height: 780px;
+      left: 733px;
+      top: 1800px;
+      
+      background: #FFFFFF;
+      border-radius: 57px;
+      
+          }
+    .blue1{
+/* image 16 */
+position: absolute;
+width: 694px;
+height: 704px;
+left: 5px;
+top: 28px;
+background: url(image.png);
+    }
+    .purpul{
+      border-radius: 57px;
+      background-color: #ffffff;
+position: absolute;
+width: 733px;
+height: 780px;
+left: 0px;
+top: 908px;
+    }
+    .purpul1{
+/* image 12 */
+
+position: absolute;
+width: 671px;
+height: 690px;
+left: 5px;
+top: 37px;
+
+background: url(width1960.png);
+
+    }
+    .green{
+/* Rectangle 13 */
+
+position: absolute;
+width: 733px;
+height: 780px;
+left: 733px;
+top: 1786px;
+
+background: #FFFFFF;
+border-radius: 57px;
+
+    }
+    .green1{
+/* image 13 */
+
+position: absolute;
+width: 715px;
+height: 665px;
+left: 5px;
+top:30px;
+
+background: url(image.png);
+
+    }
+    .red{
+/* Rectangle 11 */
+
+position: absolute;
+width: 733px;
+height: 789.61px;
+left: 0px;
+top: 2660.39px;
+
+background: #FFFFFF;
+border-radius: 57px;
+
+    }
+    .red1{
+/* image 14 */
+
+position: absolute;
+width: 701px;
+height: 711.66px;
+left: 7px;
+top: 25px;
+
+background: url(image.png);
+
+    }
+    .orange{
+/* Rectangle 12 */
+
+position: absolute;
+width: 733px;
+height: 780px;
+left: 733px;
+top: 3559px;
+
+background: #FFFFFF;
+border-radius: 57px;
+
+    }
+    .orange1{
+/* image 15 */
+
+position: absolute;
+width: 680px;
+height: 708px;
+left: 5px;
+top: 28px;
+
+background: url(image.png);
+
+    }
+    .ese{
+      /* тексти */
+
+position: absolute;
+width: 1486px;
+height: 4911px;
+left: 3px;
+top: -723px;
+
+
+    }
+
+.first-text1{
+/* Schweppes Indian Tonic Газований напій з хініном. Був відкритий під час британського правління у колоніальній Індії. З 1873 року є незмінним уособленням напоїв Schweppes. Саме він став інгредієнтом першого у світі коктейлю – джин-тоніку. Факти про поживні властивості */
+
+position: absolute;
+width: 685px;
+height: 521px;
+left: 787px;
+top: -850px;
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 63px;
+color: #000000;
+}
+.romeo-text1{
+  /* Schweppes Bitter Lemon Сік лимона віджимається разом із цедрою, що додає напою вишуканого гіркуватого смаку. Факти про поживні властивості */
+
+position: absolute;
+width: 715px;
+height: 681px;
+left: 18px;
+top: 0px;
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 63px;
+color: #000000;
+}
+.romeo-text2{
+/* Schweppes Pomegranate Тандем протилежностей: гіркий і освіжаючий смак доповнюють насичені й солодкі гранатові ноти. Це знахідка для любителів фруктових напоїв. Смакує самостійно або ж як основа для вражаючих котейлів. Факти про поживні властивості */
+
+position: absolute;
+width: 702px;
+height: 529px;
+left: 787px;
+top: 1000px;
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 63px;
+color: #000000;
+}
+.romeo-text3{
+/* Schweppes Classic Mojito Освіжаючо-тонізуючий напій з цитрусовими нотами. Має грайливий смак лайма, лимона, м'яти й класичну гіркуватість. Нагадує однойменний традиційний кубинській коктейль. Факти про поживні властивості */
+
+position: absolute;
+width: 603px;
+height: 556px;
+left: 6px;
+top: 1855px;
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size:36px;
+line-height: 63px;
+color: #000000;
+}
+
+.romeo-text4{
+/* Schweppes Spritz Aperitivo Новий освіжаючий напій з солодкуватим смаком і легкою гірчинкою. На створення нас надихнув популярний італійський коктейль Spritz. У ньому все, як ми любимо: бульбашки, яскравий смак і можливість додати кілька крапель алкоголю. Факти про поживні властивості */
+
+position: absolute;
+width: 683px;
+height: 631px;
+left: 783px;
+top: 2693px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 63px;
+
+color: #000000;
+
+
+}
+
+.romeo-text5{
+/* Schweppes Tangerine Новий освіжаючий напій зі смаком мандарина та солодкувато-пряними нотками. Чудово тонізує, а коктейлі з ним набувають особливого шарму. Факти про поживні властивості */
+
+position: absolute;
+width: 726px;
+height: 495px;
+left: 3px;
+top: 3693px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 63px;
+
+color: #000000;
+
+
+}
+
+
+.YKK{
+/* Frame 1 */
+border: 5px solid red ;
+position: absolute;
+width: 1471px;
+height: 1431px;
+left: 230px;
+top: 8525px;
+}
+
+.table-1790{
+  /* Rectangle 14 */
+position: absolute;
+width: 426px;
+height: 1431px;
+left: 212px;
+top: 8525px;
+background: #FFFFFF;
+border-radius: 50px;
+}
+
+.photo-1790{
+  /* image 9 */
+
+position: absolute;
+width: 432px;
+height: 431px;
+left: 0px;
+top: 0px;
+
+background: url(image);
+border-radius: 50px;
+
+}
+
+.table-1831{
+/* Rectangle 16 */
+
+position: absolute;
+width: 426px;
+height: 1431px;
+left: 737px;
+top: 8525px;
+
+background: #FFFFFF;
+border-radius: 50px;
+
+}
+
+.photo-1831{
+/* image 10 */
+
+position: absolute;
+width: 432px;
+height: 431px;
+left: 0px;
+top: 0px;
+
+background: url(image);
+border-radius: 50px;
+
+}
+
+.table-1851{
+/* Rectangle 15 */
+
+position: absolute;
+width: 426px;
+height: 1431px;
+left: 1257px;
+top: 8525px;
+
+background: #FFFFFF;
+border-radius: 50px;
+
+}
+
+.photo-1851{
+/* image 11 */
+
+position: absolute;
+width: 432px;
+height: 431px;
+left: 0px;
+top: 0px;
+
+background: url(image);
+border-radius: 50px;
+
+}
+.arnold{
+  position: absolute;
+  width: 330px;
+  height: 1431px;
+  left: 252px;
+  top: 9050px;
+
+  font-size: 36;
+  font-family: 'Inika';
+}
+
+
+.dima{
+  position: absolute;
+  width: 350px;
+  height: 1431px;
+  left: 770px;
+  top: 9170;
+
+  font-size: 36;
+  font-family: 'Inika';
+}
+
+
+.jeki-chan{
+  position: absolute;
+  width: 350px;
+  height: 1431px;
+  left: 1280px;
+  top: 9090px;
+
+  font-size: 36;
+  font-family: 'Inika';
+}
+.last-day{
+  /* слідкуй за анми */
+position: absolute;
+width: 1510px;
+height: 206px;
+left: 205px;
+top: 10044px;
+}
+.last-day7{
+  /* слідкуй за анми */
+position: absolute;
+width: 1510px;
+height: 206px;
+left: 205px;
+top: 4444px;
+}
+
+.cs-go{
+  /* Rectangle 12 */
+
+position: absolute;
+width: 1510px;
+height: 206px;
+left: 205px;
+top: 10044px;
+
+background: #000000;
+border-radius: 59px;
+
+}
+
+.xxx{
+  /* Слідкуй за нами */
+
+position: absolute;
+width: 505px;
+height: 83px;
+left: 95px;
+top: 0px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 83px;
+
+color: #FFFFFF;
+
+
+}
+.facebook{
+  /* image 5 */
+border-radius: 10000px;
+position: absolute;
+width: 104px;
+height: 106px;
+left: 1044px;
+top: 20px;
+background: url(image.png);
+}
+.instagram{
+  /* image 6 */
+
+position: absolute;
+width: 101px;
+height: 104px;
+left: 1183px;
+top: 20px;
+
+background: url(image.png);
+
+}
+
+.YouTube{
+  /* image 7 */
+
+position: absolute;
+width: 101px;
+height: 104px;
+left: 1px;
+top: 20px;
+
+background: url(image.png);
+
+}
+
+        
+         /* тута коди для подвалу сайта */
+              .dovn{
+              /* фон */
+        
+              position: absolute;
+              width: 1921px;
+              height: 752px;
+              left: -2px;
+              top: 10338px;
+        
+              background: #000000;
+              }
+
+              .dovn9{
+                /* фон */
+          
+                position: absolute;
+                width: 1921px;
+                height: 752px;
+                left: -122px;
+                top: 4570px;
+          
+                background: #000000;
+                }
+
+                .dovn10{
+                  /* фон */
+            
+                  position: absolute;
+                  width: 1921px;
+                  height: 752px;
+                  left: -122px;
+                  top: 5570px;
+            
+                  background: #000000;
+                  }
+
+              .logo-cola-dovn{
+                /* ukraine-coca-cola-logo_white_600x96 1 */
+        
+              position: absolute;
+              width: 434px;
+              height: 67px;
+              left: 20px;
+              top: 0px;
+        
+              background: url(ukraine-coca-cola-logo_white_600x96.png);
+        
+              }
+              .dovm-foter{
+                /* низ */
+        
+              position: absolute;
+              width: 1470px;
+              height: 353px;
+              left: 60px;
+              top: 100px;
+        
+        
+              }
+              .knopka{
+                /* Rectangle 10 */
+              border-radius: 34px;
+              position: absolute;
+              width: 269px;
+              height: 67px;
+              left: 1157px;
+              top: 0px;
+        
+              background: #FFFFFF;
+        
+              }
+              .mini-logo-local{
+                /* image 3 */
+        
+              position: absolute;
+              width: 78px;
+              height: 63px;
+              left: 94px;
+              top: 0px;
+        
+              background: url(image.png);
+        
+              }
+              .line{
+                /* Line 1 (Stroke) */
+        
+              position: absolute;
+              width: 1760px;
+              height: 1px;
+              left: 20px;
+              top: 100px;
+        
+              background: #FFFFFF;
+        
+              }
+              .dovn-header{
+                /* про нас */
+              border:1px solid black;
+              position: absolute;
+              width: 1438px;
+              height: 213px;
+              left: 20px;
+              top: 220px;
+              }
+        
+              .ppp{
+              /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+              color: rgb(157, 157, 157);
+              position: absolute;
+              font-size:26px;
+              left: 60px;
+              top: 0px;
+              }
+              .ppp1{
+                /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+                color: white;
+                position: absolute;
+                font-size:30px;
+                left: 60px;
+                top: 80px;
+                }
+                .ppp2{
+                  /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+                  color: white;
+                  position: absolute;
+                  font-size:30px;
+                  left: 60px;
+                  top: 130px;
+                  }
+                  .ppp3{
+                    /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+                    color: white;
+                    position: absolute;
+                    font-size:30px;
+                    left: 60px;
+                    top: 180px;
+                    }
+                    .ppp4{
+                      /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+                      color: white;
+                      position: absolute;
+                      font-size:30px;
+                      left: 60px;
+                      top: 230px;
+                      }
+        .kkk{
+         /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+         color: rgb(157, 157, 157);
+         position: absolute;
+         font-size:26px;
+         left: 400px;
+         top: 0px;
+         }
+         .kkk1{
+          /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+          color: white;
+          position: absolute;
+          font-size:30px;
+          left: 400px;
+          top: 80px;
+          }
+          .kkk2{
+            /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+            color: white;
+            position: absolute;
+            font-size:30px;
+            left: 400px;
+            top: 130px;
+            }
+            .kkk3{
+              /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+              color: white;
+              position: absolute;
+              font-size:30px;
+              left: 400px;
+              top: 180px;
+              }
+         .aaa{
+         /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+         color: rgb(157, 157, 157);
+         position: absolute;
+         font-size:26px;
+         left: 805px;
+         top: 0px;
+          }
+          .aaa1{
+            /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+            color: white;
+            position: absolute;
+            font-size:30px;
+            left: 805px;
+            top: 80px;
+            }
+            .aaa2{
+              /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+              color: white;
+              position: absolute;
+              font-size:30px;
+              left: 805px;
+              top: 130px;
+              }
+              .aaa3{
+                /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+                color: white;
+                position: absolute;
+                font-size:30px;
+                left: 805px;
+                top: 180px;
+                }
+                .ppp4{
+                  /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+                  color: white;
+                  position: absolute;
+                  font-size:30px;
+                  left: 805px;
+                  top: 230px;
+                  }
+              

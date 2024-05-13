@@ -1,0 +1,921 @@
+.tall{
+  /* Rectangle 1 */
+position: absolute;
+width: 1920px;
+height: 125px;
+left: 0px;
+top: 0px;
+background: #FFFFFF;
+}
+
+
+img{
+    display: block;
+    margin: 0 auto;
+  }
+  a{
+    text-align:center;
+    padding:40px;
+    text-decoration: none;
+    color:white;
+  }/* Slide 16:9 - 1 */
+
+  .all{
+position: relative;
+width: 1920px;
+height: 3044px;
+
+background: #E7E7E7;
+  }
+  /* image 1 */
+
+
+  .topp{
+
+    position: absolute;
+    width: 344px;
+    height: 55px;
+    left: 24px;
+    top: 30px;
+    
+    background: url(ukraine-coca-cola-logo_black_600x96.png);
+     }
+
+     .photo{
+      position: absolute;
+      width: 1500px;
+      height: 807px;
+      left: 210px;
+      top: 170px;
+      
+      background: url(image.png);
+      border-radius: 59px;
+      }
+
+      .big-text{
+        /* НАШІ БРЕНДИ */
+        
+        position: absolute;
+        width: 536px;
+        height: 54px;
+        left: 702px;
+        top: 150px;
+        
+        font-family: 'arial black';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 64px;
+        line-height: 77px;
+        
+        color: #000000;
+          }
+
+
+          .cola{
+            /* кола */
+            border: 1px  #ffffff;
+            position: absolute;
+            width: 300px;
+            height: 278px;
+            left: 402px;
+            top: 2000px;
+            border-radius: 42px;
+            background: white;
+            }
+
+            .cola:hover{ 
+              /* кола */ 
+              border: 2px  #ffffff; 
+              position: absolute; 
+              width: 300px;
+              height: 278px;
+              left: 402px;
+              top: 2000px;
+              border-radius: 42px; 
+              background: white; 
+              transition-property: transform;
+              transition-duration: .5s;
+              transform: scale(1.2);
+            }
+            .cola1{
+            /* Значок кока коли */
+
+            position: absolute;
+            width: 245px;
+            height: 79px;
+            left: 27px;
+            top: 90px;
+            background: white;
+            }
+            .zero{
+            /* Rectangle 7 */
+            border: 1px  #ffffff;
+            position: absolute;
+            width: 300px;
+            height: 278px;
+            left: 786px;
+            top: 2000px;
+
+            background: white;
+            border-radius: 42px;
+            }
+            .zero:hover{
+              /* Rectangle 7 */
+              border: 1px  #ffffff;
+              position: absolute;
+              width: 300px;
+              height: 278px;
+              left: 786px;
+              top: 2000px;
+              background: white;
+              border-radius: 42px;
+
+              transition-property: transform;
+              transition-duration: .5s;
+              transform: scale(1.2);
+            }
+
+            .zero1{
+            /* image 2 */
+
+            position: absolute;
+            width: 245px;
+            height: 89px;
+            left: 27px;
+            top: 90px;
+
+            background:white;
+
+            }
+            .coffe{
+            /* Rectangle 6 */
+            border: 1px  #ffffff;
+            position: absolute;
+            width: 300px;
+            height: 278px;
+            left: 1170px;
+            top: 2000px;
+            background:white;
+            border-radius: 42px;
+            }
+
+            .coffe:hover{
+              /* Rectangle 6 */
+              border: 1px  #ffffff;
+              position: absolute;
+              width: 300px;
+              height: 278px;
+              left: 1170px;
+              top: 2000px;
+              background:white;
+              border-radius: 42px;
+              transition-property: transform;
+              transition-duration: .5s;
+              transform: scale(1.2);
+              }
+
+            .coffe1{
+            /* width1960 1 */
+
+            position: absolute;
+            width: 193px;
+            height: 194px;
+            left: 55px;
+            top: 47px;
+
+            background: url(width1960.png);
+
+            }
+            .fanta{
+            /* Rectangle 4 */
+            border: 1px  #ffffff;
+            position: absolute;
+            width: 300px;
+            height: 278px;
+            left: 402px;
+            top: 2320px;
+            background: #FFFFFF;
+            border-radius: 42px;
+            }
+
+            .fanta:hover{
+              /* Rectangle 4 */
+              border: 1px  #ffffff;
+              position: absolute;
+              width: 300px;
+              height: 278px;
+              left: 402px;
+              top: 2320px;
+              background: #FFFFFF;
+              border-radius: 42px;
+              transition-property: transform;
+              transition-duration: .5s;
+              transform: scale(1.2);
+              }
+
+            .fanta1{
+            /* width1960 2 */
+            border: 1px  #ffffff;
+            position: absolute;
+            width: 218px;
+            height: 165px;
+            left: 46px;
+            top: 56px;
+
+            background: url(width1960.png);
+
+            }
+            .sprite{
+            /* Спрайт */
+            border: 1px  #ffffff;
+            position: absolute;
+            width: 300px;
+            height: 278px;
+            left: 786px;
+            top: 2320px;
+            background: #FFFFFF;
+            border-radius: 42px;
+            }
+
+            .sprite:hover{
+              /* Спрайт */
+              border: 1px  #ffffff;
+              position: absolute;
+              width: 300px;
+              height: 278px;
+              left: 786px;
+              top: 2320px;
+              background: #FFFFFF;
+              border-radius: 42px;
+              transition-property: transform;
+              transition-duration: .5s;
+              transform: scale(1.2);
+              }
+
+            .sprite1{
+            /* Спрайт */
+
+            position: absolute;
+            width: 218px;
+            height: 165px;
+            left: 46px;
+            top: 56px;
+            }
+            .sweps{
+            /* Rectangle 6 */
+            border: 1px  #ffffff;
+            position: absolute;
+            width: 300px;
+            height: 278px;
+            left: 1170px;
+            top: 2320px;
+            background:white;
+            border-radius: 42px;
+
+            }
+            .sweps:hover{
+              /* Rectangle 6 */
+              border: 1px  #ffffff;
+              position: absolute;
+              width: 300px;
+              height: 278px;
+              left: 1170px;
+              top: 2320px;
+              background:white;
+              border-radius: 42px;
+              transition-property: transform;
+              transition-duration: .5s;
+              transform: scale(1.2);
+              }
+
+            .sweps1{
+              position: absolute;
+            width: 218px;
+            height: 165px;
+            left: 46px;
+            top: 56px;
+            }
+            .bonaqua{
+      /* Rectangle 3 */
+      border: 1px  #ffffff;
+      position: absolute;
+      width: 300px;
+      height: 278px;
+      left: 590px;
+      top: 2640px;
+      background: #FFFFFF;
+      border-radius: 42px;
+
+            }
+
+            .bonaqua:hover{
+              /* Rectangle 3 */
+              border: 1px  #ffffff;
+              position: absolute;
+              width: 300px;
+              height: 278px;
+              left: 590px;
+              top: 2640px;
+              background: #FFFFFF;
+              border-radius: 42px;
+              transition-property: transform;
+              transition-duration: .5s;
+              transform: scale(1.2);
+                    }
+
+
+            .bonaqua2{
+      /* ua_bonaqua_logo_colored_272x180_v1 2 */
+      position: absolute;
+      width: 272px;
+      height: 180px;
+      left: 28px;
+      top: 49px;
+      background:42px;
+            }
+
+    .Fuze-tea{
+      /* Rectangle 3 */
+      border: 1px  #ffffff;
+      position: absolute;
+      width: 300px;
+      height: 278px;
+      left: 980px;
+      top: 2640px;
+      background: #FFFFFF;
+      border-radius: 42px;
+
+            }
+
+    .Fuze-tea:hover{
+      /* Rectangle 3 */
+       border: 1px  #ffffff;
+       position: absolute;
+       width: 300px;
+       height: 278px;
+       left: 980px;
+       top: 2640px;
+       background: #FFFFFF;
+       border-radius: 42px;
+       transition-property: transform;
+       transition-duration: .5s;
+       transform: scale(1.2);
+                    }
+
+            .Fuze-tea2{
+              /* ua_fuzetea_logo_colored_186x180_v1 1 */
+
+      position: absolute;
+      width: 186px;
+      height: 180px;
+      left: 57px;
+      top: 49px;
+
+      background: url(ua_fuzetea_logo_colored_186x180_v1.png);
+
+            }
+
+
+
+            .perehlanut{
+              /* Переглянути все кнопка */
+              font-family:"arial black" ;
+              position: absolute;
+              width: 418px;
+              height: 0px;
+              left: 681px;
+              top: 2638px;
+              border:1px solid #000000;
+              border-radius: 70px  ;
+              }
+              .perehlanut:hover{
+                /* Переглянути все кнопка */
+                font-family:"arial black" ;
+                position: absolute;
+                width: 418px;
+                height: 0px;
+                left: 681px;
+                top: 2638px;
+                border:1px solid #000000;
+                border-radius: 70px  ;
+                background-color: white;
+                }
+
+.text{
+  /* The Coca‑Cola Company та Coca‑Cola HBC працюють, інвестують кошти та підтримують українське суспільство вже протягом 30 років. Україна є, і надалі залишається, важливою країною, для якої ми працюємо. Ми вже надали наступну допомогу: The Coca‑Cola Company, її партнери-ботлери в Європі, у тому числі Coca‑Cola HBC, та Фундація Coca‑Cola надають понад 3 мільйони доларів США у вигляді фінансової допомоги та нашої продукції, щоб підтримати хоробрі зусилля руху Червоного Хреста в Україні та країнах-сусідах, які приймають біженців. Наші команди в Україні надають гуманітарну підтримку лікарням, пунктам допомоги біженцям та громадам в Україні, в тому числі - координують масштабні поставки води,  продуктів та необхідного обладнання місцевим лікарням та медичним установам. Окрім того, наші колеги працюють волонтерами: привозять напої та ліки, готують їжу, допомагають біженцям та надають соціальну підтримку в усіх регіонах України.  Наші колеги з України та інших країн зробили фінансові пожертви, працюють волонтерами, надаючи гуманітарну допомогу на кордонах. Зараз ми зосередились на допомозі нашим людям та їх родинам, підтримуємо зусилля з гуманітарної допомоги в Україні та регіоні.  Ми надали нашим працівникам терміновий доступ до коштів Фонду допомоги працівникам Coca‑Cola у разі надзвичайних ситуацій. Ми на постійному зв’язку з колегами і робимо усе можливе, щоб підтримати їх та наші громади. З 24го лютого ми активували план дій у разі надзвичайних ситуацій, який передбачає тимчасову зупинку нашого виробництва в Україні, задля безпеки наших людей. Там, де це безпечно, ми продовжуємо працювати у обмеженому форматі, постійно відстежуючи зміни ситуації. Ми сподіваємось на найскоріший мир в регіоні. */
+
+position: absolute;
+width: 1750px;
+height: 1130px;
+left: 115px;
+top: 993px;
+
+font-family: 'ms sans serif';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 39px;
+
+color: #000000;
+}
+
+
+.brends{
+/* НАШІ БРЕНДИ */
+
+position: absolute;
+width: 536px;
+height: 54px;
+left: 702px;
+top: 2266px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
+}
+
+
+
+.messi{
+  /* основна частина */
+
+position: absolute;
+width: 1619px;
+height: 1773px;
+left: 139px;
+top: 96px;
+}
+
+.big-text2{
+  /* Знаменитий футболіст на прес-конференції відсунув від себе пляшечки з Coca-Cola, а за півгодини акції компанії впали на 1,6% */
+
+position: absolute;
+width: 1789px;
+height: 257px;
+left: -87px;
+top: 128px;
+
+font-family: 'arial black';
+font-style: italic;
+font-weight: 700;
+font-size: 64px;
+line-height: 77px;
+text-align: center;
+color: #000000;
+}
+
+.Ronaldo-photo1{
+  /* image 4 */
+
+position: absolute;
+width: 933px;
+height: 901px;
+left: 0px;
+top: 455px;
+background: url(image.png);
+border-radius: 43px;
+}
+.block{
+  /* Rectangle 11 */
+
+position: absolute;
+width: 780px;
+height: 711.54px;
+left: 649px;
+top: 1054px;
+background: #FFFFFF;
+border-radius: 74px;
+}
+.xxl{
+  /* Нападающий сборной Португалии Криштиану Роналду обвалил акции компании Coca-Cola, отодвинув от себя бутылки с напитком на одной из пресс-конференций. Так компания потеряла почти четыре миллиарда долларов, сообщает */
+
+position: absolute;
+width: 741px;
+height: 569.64px;
+left: 19px;
+top:50px;
+
+font-family: 'trebuchet ms';
+font-style: italic;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+text-align: center;
+color: #000000;
+}
+
+
+.box{
+  /* Frame 1 */
+
+position: absolute;
+width: 1601px;
+height: 133px;
+left: 24px;
+top: 1819px;
+
+background: #FFFFFF;
+mix-blend-mode: overlay;
+border-radius: 110px;
+color: #000000;
+}
+.news{
+  /* Coca-Cola втрачає мільярди доларів */
+/* Coca-Cola втрачає мільярди доларів */
+
+position: absolute;
+width: 1274px;
+height: 77px;
+left: 176px;
+top: -25px;
+font-family: 'arial black';
+font-style: normal;
+font-weight: 900;
+font-size: 54px;
+line-height: 77px;
+text-align: center;
+color: #000000;
+}
+.roni{
+  /* image 5 */
+
+position: absolute;
+width: 1453px;
+height: 902.76px;
+left: 108px;
+top: 2031.24px;
+
+background: url(image.png);
+border-radius: 43px;
+
+}
+
+
+/* Rectangle 9 */
+footer{
+position: absolute;
+width: 1921px;
+height: 752px;
+left: -2px;
+top: 1000px;
+
+background: #000000;
+}
+/* фото перше */
+
+
+.stand2{
+border: 5px solid blue;
+  position: absolute;
+  top: -1500px;
+  left: 0px;
+        }
+             
+
+
+
+
+
+
+.nashibrend{
+  /* Rectangle 8 */
+  font-size: 48px;
+  position: absolute;
+  width: 418px;
+  height: 71px;
+  left: 730px;
+  top: 1747px;
+  font-family: 'arial black';
+ 
+  }
+
+
+  .start{
+  /* Бренди */
+
+  position: absolute;
+  width: 264px;
+  height: 0px;
+  left: 297px;
+  top: -15px;
+
+  font-family: 'arial black';
+  font-style: normal;
+  font-weight: 100000;
+  font-size: 33px;
+  line-height: 58px;
+  text-align: center;
+
+  color: #000000;
+  }
+  .start2{
+    /* Бренди */
+    
+    position: absolute;
+    width: 264px;
+    height: 0px;
+    left: 566px;
+    top: -15px;
+    
+    font-family: 'arial black';
+    font-style: normal;
+    font-weight: 100000;
+    font-size: 33px;
+    line-height: 58px;
+    text-align: center;
+    
+    color: #000000;
+    }
+   
+     .start3{
+     /* Вплив */
+
+     position: absolute;
+     width: 264px;
+     height: 0px;
+     left: 859px;
+     top: -15px;
+     
+     font-family: 'arial black';
+     font-style: normal;
+     font-weight: 100000;
+     font-size: 33px;
+     line-height: 58px;
+     text-align: center;
+     
+     color: #000000;
+     }
+
+ /* тута коди для подвалу сайта */
+      .dovn{
+      /* фон */
+
+      position: absolute;
+      width: 1921px;
+      height: 752px;
+      left: -2px;
+      top: 2750px;
+
+      background: #000000;
+      }
+      .dovn2{
+        /* фон */
+  
+        position: absolute;
+        width: 1921px;
+        height: 752px;
+        left: -2px;
+        top:2292px ;
+  
+        background: #000000;
+        }
+      .logo-cola-dovn{
+        /* ukraine-coca-cola-logo_white_600x96 1 */
+
+      position: absolute;
+      width: 434px;
+      height: 67px;
+      left: 20px;
+      top: 0px;
+
+      background: url(ukraine-coca-cola-logo_white_600x96.png);
+
+      }
+      .dovm-foter{
+        /* низ */
+
+      position: absolute;
+      width: 1470px;
+      height: 353px;
+      left: 60px;
+      top: 100px;
+
+
+      }
+      .knopka{
+        /* Rectangle 10 */
+      border-radius: 34px;
+      position: absolute;
+      width: 269px;
+      height: 67px;
+      left: 1157px;
+      top: 0px;
+
+      background: #FFFFFF;
+
+      }
+      .mini-logo-local{
+        /* image 3 */
+
+      position: absolute;
+      width: 78px;
+      height: 63px;
+      left: 94px;
+      top: 0px;
+
+      background: url(image.png);
+
+      }
+      .line{
+        /* Line 1 (Stroke) */
+
+      position: absolute;
+      width: 1760px;
+      height: 1px;
+      left: 20px;
+      top: 100px;
+
+      background: #FFFFFF;
+
+      }
+      .dovn-header{
+        /* про нас */
+      border:1px solid black;
+      position: absolute;
+      width: 1438px;
+      height: 213px;
+      left: 20px;
+      top: 220px;
+      }
+
+      .ppp{
+      /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+      color: rgb(157, 157, 157);
+      position: absolute;
+      font-size:26px;
+      left: 60px;
+      top: 0px;
+      }
+      .ppp1{
+        /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+        color: white;
+        position: absolute;
+        font-size:30px;
+        left: 60px;
+        top: 80px;
+        }
+        .ppp2{
+          /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+          color: white;
+          position: absolute;
+          font-size:30px;
+          left: 60px;
+          top: 130px;
+          }
+          .ppp3{
+            /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+            color: white;
+            position: absolute;
+            font-size:30px;
+            left: 60px;
+            top: 180px;
+            }
+            .ppp4{
+              /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+              color: white;
+              position: absolute;
+              font-size:30px;
+              left: 60px;
+              top: 230px;
+              }
+.kkk{
+ /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+ color: rgb(157, 157, 157);
+ position: absolute;
+ font-size:26px;
+ left: 400px;
+ top: 0px;
+ }
+ .kkk1{
+  /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+  color: white;
+  position: absolute;
+  font-size:30px;
+  left: 400px;
+  top: 80px;
+  }
+  .kkk2{
+    /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+    color: white;
+    position: absolute;
+    font-size:30px;
+    left: 400px;
+    top: 130px;
+    }
+    .kkk3{
+      /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+      color: white;
+      position: absolute;
+      font-size:30px;
+      left: 400px;
+      top: 180px;
+      }
+ .aaa{
+ /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+ color: rgb(157, 157, 157);
+ position: absolute;
+ font-size:26px;
+ left: 805px;
+ top: 0px;
+  }
+  .aaa1{
+    /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+    color: white;
+    position: absolute;
+    font-size:30px;
+    left: 805px;
+    top: 80px;
+    }
+    .aaa2{
+      /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+      color: white;
+      position: absolute;
+      font-size:30px;
+      left: 805px;
+      top: 130px;
+      }
+      .aaa3{
+        /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+        color: white;
+        position: absolute;
+        font-size:30px;
+        left: 805px;
+        top: 180px;
+        }
+        .ppp4{
+          /* ПРО НАС Наша компанія Медіацентр Історія Вакансії */
+          color: white;
+          position: absolute;
+          font-size:30px;
+          left: 805px;
+          top: 230px;
+          }
+                                                                               /* 2 page */
+  
+                          /* page3 */
+
+
+.text6{
+/* ЗАВАНТАЖУЙ COCA‑COLA APP, ГРАЙ ТА ОТРИМУЙ ПОДАРУНКИ */
+
+position: absolute;
+width: 950px;
+
+top: 200px;
+left: 485px;
+font-family: 'arial black';
+font-style: normal;
+font-weight: 900;
+font-size: 52px;
+line-height: 58px;
+
+color: #000000;
+}
+
+.app{
+  /* width1960 1 */
+
+position: absolute;
+width: 352px;
+height: 104px;
+
+left: 575px;
+top: 425px;
+
+background: url(width1960.png);
+border-radius: 29px;
+
+}
+
+.app-aple{
+  /* width1960 2 */
+
+position: absolute;
+width: 389.13px;
+height: 104px;
+left: 960px;
+top: 425px;
+
+background: url(width1960.png);
+border-radius: 29px;
+
+}
+
+.last-photo{
+  /* image 1 */
+
+position: absolute;
+width: 1463px;
+height: 822.94px;
+left: 228px;
+top: 628px;
+
+background: url(image.png);
+border-radius: 46px;
+
+}
+
